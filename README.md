@@ -1,3 +1,11 @@
+I robbed this to make some changes and install for my own personal use, please visit the correct github for this project
+https://github.com/Almamu/linux-wallpaperengine
+
+everything below is from that page
+
+
+
+
 <p align="center">
 	<a href="https://github.com/Almamu/linux-wallpaperengine/blob/main/LICENSE"><img src="https://img.shields.io/github/license/Almamu/linux-wallpaperengine" /></a>
     <a href="https://github.com/Almamu/linux-wallpaperengine/actions?query=branch%3Amain"><img src="https://img.shields.io/github/actions/workflow/status/Almamu/linux-wallpaperengine/cmake.yml?branch=main" /></a>
